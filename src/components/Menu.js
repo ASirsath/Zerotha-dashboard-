@@ -16,7 +16,7 @@ const Menu = () => {
   const handleLogout = () => {
     // Optional: clear token if you're storing it in state or localStorage
     // localStorage.removeItem("token");
-    window.location.href = "http://localhost:3000";
+    //window.location.href = "http://localhost:3000";
   };
 
   const menuClass = "menu";
